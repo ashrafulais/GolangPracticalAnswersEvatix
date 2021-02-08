@@ -4,5 +4,5 @@ package main
 import createinitialtask "github.com/ashrafulais/GolangPracticalAnswersEvatix/clitaskinitial"
 
 func main() {
-	createinitialtask.ExecuteInitialTask()
+	createinitialtask.ExecuteInitialTask_Detailed()
 }
